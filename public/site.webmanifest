@@ -1,6 +1,6 @@
 {
-  "name": "Apps",
-  "short_name": "Apps",
+  "name": "Calculator",
+  "short_name": "Calculator",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
