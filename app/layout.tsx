@@ -8,8 +8,8 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: 'Apps',
-  description: 'A modern operating system built with Next.js and TypeScript',
+  title: 'Calculator',
+  description: 'A simple calculator app built with Next.js',
 };
 
 export default function RootLayout({
